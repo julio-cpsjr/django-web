@@ -1,4 +1,4 @@
 # django-web
 
 
-App Django Python :snake 
+App Django Python 🐍
