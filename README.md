@@ -1,7 +1,7 @@
 # django-web
 
 
-App Django Python 🐍
+App Django Python 🐍   - Project don't done
 
 
 My first project with Django application, I used git commands for commits to trainning. 
